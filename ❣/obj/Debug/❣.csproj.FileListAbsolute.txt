@@ -1,0 +1,28 @@
+D:\计算机大全\c#\❣\❣\bin\Debug\_.exe
+D:\计算机大全\c#\❣\❣\bin\Debug\_.pdb
+D:\计算机大全\c#\❣\❣\obj\Debug\_.FormMain.resources
+D:\计算机大全\c#\❣\❣\obj\Debug\__.Properties.Resources.resources
+D:\计算机大全\c#\❣\❣\obj\Debug\❣.csproj.GenerateResource.Cache
+D:\计算机大全\c#\❣\❣\obj\Debug\_.exe
+D:\计算机大全\c#\❣\❣\obj\Debug\_.pdb
+D:\计算机大全\c#\❣\❣\obj\Debug\❣.csprojResolveAssemblyReference.cache
+D:\ONE\keyboard\mykeyboard\❣\obj\Debug\_.exe
+D:\ONE\keyboard\mykeyboard\❣\obj\Debug\_.pdb
+D:\ONE\keyboard\ASCii keyboard\❣\obj\Debug\_.exe
+D:\ONE\keyboard\ASCii keyboard\❣\obj\Debug\_.pdb
+D:\ONE\keyboard\❣keyboard\❣\obj\Debug\_.exe
+D:\ONE\keyboard\❣keyboard\❣\obj\Debug\_.pdb
+D:\ONE\keyboard\❣keyboard\❣\bin\Debug\_.exe
+D:\ONE\keyboard\❣keyboard\❣\bin\Debug\_.pdb
+D:\ONE\keyboard\❣keyboard\❣\obj\Debug\❣.csprojResolveAssemblyReference.cache
+D:\ONE\keyboard\❣keyboard\❣\obj\Debug\_.FormMain.resources
+D:\ONE\keyboard\❣keyboard\❣\obj\Debug\__.Properties.Resources.resources
+D:\ONE\keyboard\❣keyboard\❣\obj\Debug\❣.csproj.GenerateResource.Cache
+D:\ONE\keyboard ❣\❣\obj\Debug\_.exe
+D:\ONE\keyboard ❣\❣\obj\Debug\_.pdb
+D:\ONE\keyboard ❣\❣\bin\Debug\_.exe
+D:\ONE\keyboard ❣\❣\bin\Debug\_.pdb
+D:\ONE\keyboard ❣\❣\obj\Debug\_.FormMain.resources
+D:\ONE\keyboard ❣\❣\obj\Debug\__.Properties.Resources.resources
+D:\ONE\keyboard ❣\❣\obj\Debug\❣.csproj.GenerateResource.Cache
+D:\ONE\keyboard ❣\❣\obj\Debug\❣.csprojResolveAssemblyReference.cache
