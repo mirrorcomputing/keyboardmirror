@@ -26,3 +26,11 @@ D:\ONE\keyboard ❣\❣\obj\Debug\_.FormMain.resources
 D:\ONE\keyboard ❣\❣\obj\Debug\__.Properties.Resources.resources
 D:\ONE\keyboard ❣\❣\obj\Debug\❣.csproj.GenerateResource.Cache
 D:\ONE\keyboard ❣\❣\obj\Debug\❣.csprojResolveAssemblyReference.cache
+D:\ONE\keyboardmirror\❣\obj\Debug\_.exe
+D:\ONE\keyboardmirror\❣\obj\Debug\_.pdb
+D:\ONE\keyboardmirror\❣\bin\Debug\_.exe
+D:\ONE\keyboardmirror\❣\bin\Debug\_.pdb
+D:\ONE\keyboardmirror\❣\obj\Debug\❣.csprojResolveAssemblyReference.cache
+D:\ONE\keyboardmirror\❣\obj\Debug\_.FormMain.resources
+D:\ONE\keyboardmirror\❣\obj\Debug\__.Properties.Resources.resources
+D:\ONE\keyboardmirror\❣\obj\Debug\❣.csproj.GenerateResource.Cache

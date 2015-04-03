@@ -15,8 +15,7 @@ namespace _
         {
             InitializeComponent();
         }
-        IPEndPoint host =new IPEndPoint(IPAddress.Parse("127.0.0.1"), 213);
-        UdpClient udpsender=new UdpClient();
+        LCM.LCM.LCM lcmsender = new LCM.LCM.LCM();
         private void FormMain_KeyPress(object sender, KeyPressEventArgs e)
         {
             string value = "";
@@ -84,8 +83,8 @@ namespace _
             if(i==27)value = "♟";               
             
             #endregion
-            byte[] data=System.Text.Encoding.UTF8.GetBytes(value);   
-            udpsender.Send(data, data.Length, host); 
+            byte[] data=System.Text.Encoding.UTF8.GetBytes(value);
+            lcmsender.Publish("keyboard"+data.Length.ToString(), data, 0, data.Length);
         }
     }
 }
